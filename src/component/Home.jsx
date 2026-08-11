@@ -1,6 +1,6 @@
 import React from 'react'
 
-import pic from "../../public/image.png"
+import pic from "../../public/pht.jpg"
 
 import { FaSquareFacebook } from "react-icons/fa6";
 import { FaLinkedinIn } from "react-icons/fa";

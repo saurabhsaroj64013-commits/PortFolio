@@ -1,6 +1,8 @@
 import React from 'react';
 import java from "../../public/javam.png"
 import python from "../../public/pythonim.png"
+
+
 import mongoDB from "../../public/mangoima.jpeg"
 import express from "../../public/expreesi.png"
 
